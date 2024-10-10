@@ -1,0 +1,20 @@
+
+body{
+    font-style: italic;
+    min-height: 100vh;
+    display: grid;
+    place-content: center;
+    background-color: pink;
+}
+
+.container{
+    background-color: whitesmoke;
+    padding: 3px;
+    border-radius: 8px;
+}
+
+input{
+    padding: 2px;
+    border: 1px solid gray;
+    border-radius: 2px;
+}
